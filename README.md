@@ -31,7 +31,7 @@ The dashboard helps visualize:
 - `Hospital_Waitlist_Dashboard.pdf` – PDF version for easy viewing (recommended for non-Power BI users)
 
 ## 📎 View the Dashboard (PDF)
-[Google Drive - PDF Version](https://drive.google.com/file/d/1sJq1TuAM5J7eHbxogXmJiDj-NEAXu_Cd/view?usp=drive_link)
+[📄 Click here to view the dashboard summary (PDF)](https://drive.google.com/file/d/1bpPMCqX9h1iTMgPWzttmS7EjuAm2kffy/view?usp=sharing)
 
 ## 🚀 Purpose
 This project was created as part of my personal portfolio to practice real-world business intelligence skills. It demonstrates data wrangling, KPI design, and storytelling with Power BI.
