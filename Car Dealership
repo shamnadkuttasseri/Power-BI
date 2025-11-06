@@ -1,0 +1,47 @@
+# 🚗 Car Dealership Sales and Inventory Analysis Dashboard
+
+## Overview
+
+This repository contains a dynamic Power BI report (`Car_Dealership.pbix`) designed to provide comprehensive business intelligence for a car dealership. The dashboard centralizes key sales, inventory, and operational metrics, allowing stakeholders to monitor performance, identify trends, and make data-driven decisions.
+
+## 📈 Key Features & Metrics
+
+The report is structured into several pages, including visualizations and KPIs for:
+
+* **Sales Performance:** Tracking total revenue, gross profit, and sales volume (units sold) over time (monthly/quarterly).
+* **Inventory Analysis:** Monitoring current stock levels, average **Time on Lot (TOL)**, and inventory aging to optimize stock rotation.
+* **Model & Brand Deep Dive:** Highlighting top-selling vehicle models, brands, and their respective profitability.
+* **Sales Team Effectiveness:** Analyzing individual sales representative performance and commission tracking.
+* **Financial Breakdown:** Examining financing methods, trade-in values, and other cost components.
+
+## 🛠️ Technical Requirements
+
+To view and interact with this report, you will need:
+
+* **Microsoft Power BI Desktop:** This free application is required to open and modify the `.pbix` file.
+* **Data Source:** The original data is embedded within the report or connected via specific credentials. (See the "How to Use" section below.)
+
+## How to Use
+
+1.  **Clone or Download** this repository to your local machine.
+2.  Ensure you have **Power BI Desktop** installed.
+3.  Double-click the file named `Car_Dealership.pbix` to open it in Power BI.
+4.  **Data Source Refresh (If Needed):**
+    * If the data source used was a local file (like an Excel or CSV), you may need to update the file path. Go to `Home` tab -> `Transform data` -> `Data source settings` to point to the correct location of your data files.
+    * If the data source was a database (e.g., SQL Server), you may be prompted to enter your credentials.
+
+## 📁 Repository Structure
+
+* `Car_Dealership.pbix`: The main Power BI Desktop file containing the data model, reports, and visualizations.
+* `README.md`: This file.
+
+## 🔗 Connect with Me
+
+This project is part of my data analytics portfolio. Feel free to connect or provide feedback!
+
+* **GitHub:** [@Your-GitHub-Username](https://github.com/Your-GitHub-Username)
+* **LinkedIn:** [Your LinkedIn Profile Link]
+* **Portfolio:** [Your Portfolio Website Link]
+
+---
+_Disclaimer: The data used in this report is synthetic/anonymized and for demonstration purposes only._
